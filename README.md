@@ -1,2 +1,0 @@
-# hcl-data-analysis
-training
